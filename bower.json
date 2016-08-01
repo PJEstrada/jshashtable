@@ -1,0 +1,40 @@
+{
+  "name": "jshashtable",
+  "description": "Hashtable for javascript.",
+  "main": [
+    "js/jshashtable-2.1_src.js",
+  ],
+  "dependencies": {
+    "draggable": "latest",
+    "jquery-dependClass.js": "https://github.com/pra85/jquery-dependclass",
+	"jquery-numberformatter":"latest",
+	"jslider":"latest",
+	"jquery":"1.7.1"
+	
+  },
+  "devDependencies": {
+    "qunit": "~1.16.0"
+  },
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "motion",
+    "physics",
+    "particles"
+  ],
+  "authors": [
+    "Betty Beta <bbeta@example.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}
