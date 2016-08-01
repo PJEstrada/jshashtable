@@ -26,9 +26,8 @@
     "particles"
   ],
   "authors": [
-    "Betty Beta <bbeta@example.com>"
+    "Tim Down"
   ],
-  "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
