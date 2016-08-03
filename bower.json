@@ -2,7 +2,7 @@
   "name": "jshashtable",
   "description": "Hashtable for javascript.",
   "main": [
-    "js/jshashtable-2.1_src.js",
+    "js/jshashtable-2.1_src.js"
   ],
   "dependencies": {
     "draggable": "latest",
